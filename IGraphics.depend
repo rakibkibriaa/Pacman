@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1737305901 source:c:\users\rakib\downloads\igraphics-master\igraphics-master\solarsystem.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1737305901 c:\users\rakib\downloads\igraphics-master\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1737305901 c:\users\rakib\downloads\igraphics-master\igraphics-master\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1737305901 c:\users\rakib\downloads\igraphics-master\igraphics-master\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1737305901 c:\users\rakib\downloads\igraphics-master\igraphics-master\opengl\include\gl.h
+
+1737306256 source:c:\academics\1-1\packman\packman\igraphics-master\igraphics-master\pacman.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<iostream>
+	<mmsystem.h>
+
+1737305901 c:\academics\1-1\packman\packman\igraphics-master\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1737305901 c:\academics\1-1\packman\packman\igraphics-master\igraphics-master\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1737305901 c:\academics\1-1\packman\packman\igraphics-master\igraphics-master\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
