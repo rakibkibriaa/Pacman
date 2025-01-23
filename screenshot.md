@@ -1,5 +1,0 @@
-![alt text](<game screenshots/hall_of_fame.jpg>)
-![alt text](<game screenshots/instruction.jpg>)
-![alt text](<game screenshots/main_game_2.jpg>)
-![alt text](<game screenshots/main_game.jpg>)
-![alt text](<game screenshots/menu.jpg>)
